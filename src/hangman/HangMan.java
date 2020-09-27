@@ -5,6 +5,8 @@
  */
 package hangman;
 
+import hangman.models.Game;
+import hangman.models.Player;
 import hangman.models.Word;
 import java.util.ArrayList;
 
